@@ -104,7 +104,9 @@ This course introduces the foundational concepts and techniques in machine learn
 - Familiarity with Python programming  
 
 ## 📊 Grade Distribution  
-- **40%** Mid-term and final exams  
-- **30%** Homework assignments and coding projects  
-- **20%** Lab exercises and hands-on implementation  
-- **10%** Paper presentation and participation  
+- **20%** First mid-term
+- **25%** Second mid-term
+- **25%** Final Exam
+- **10%** Theoretical Assignments  
+- **10%** Computer Assignments
+- **10%** Final Project
